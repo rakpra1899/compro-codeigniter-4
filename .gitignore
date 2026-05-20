@@ -126,3 +126,9 @@ nb-configuration.xml
 /phpunit*.xml
 /.phpunit.*.cache
 
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
