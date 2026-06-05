@@ -13,11 +13,13 @@ body {
   color: #444444;
 }
 
+/*ubah warna link*/
 a {
   color: #012345;
   text-decoration: none;
 }
 
+/*ubah warna link*/
 a:hover {
   color: #012345;
   text-decoration: none;
